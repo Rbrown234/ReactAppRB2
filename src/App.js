@@ -6,7 +6,7 @@ import shoes4 from './boots-3.png';
 import './App.css';
 import raw from "./ToS.txt"
 import { useState } from "react";
-import { Route, IndexRoute } from 'react-router';
+//import { Route, IndexRoute } from 'react-router';
 import background from './cloud-background.jpg'
 
 
@@ -58,7 +58,7 @@ function App() {
         <div id="termsofservice">
             <input type="checkbox" onClick={onCheckboxClick} />
           I accept Cob's Terms of Service and Privacy Policy 
-        <object width="300" height="250" type="text/plain" data={raw} border="0"></object>
+        <object width="300" height="250" type="text/plain" data={raw} border="0" aria-labelledby="Terms for Cobblers"></object>
             <button type="submit" disabled={isDisabled}>
               Continue
           </button>
