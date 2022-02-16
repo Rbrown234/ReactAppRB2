@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/ReactAppRB2/static/css/main.073c9b0a.css",
-    "main.js": "/ReactAppRB2/static/js/main.f8160c21.js",
+    "main.css": "/ReactAppRB2/static/css/main.42ac9c45.css",
+    "main.js": "/ReactAppRB2/static/js/main.2091dd6a.js",
     "static/js/787.28cb0dcd.chunk.js": "/ReactAppRB2/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/ReactAppRB2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/boots-3.png": "/ReactAppRB2/static/media/boots-3.a10fae3e31ffdeb056b8.png",
+    "static/media/cloud-background.jpg": "/ReactAppRB2/static/media/cloud-background.67bffb4c59b6b61564ea.jpg",
+    "static/media/pjimage-1-9.webp": "/ReactAppRB2/static/media/pjimage-1-9.85e31ae457be0a858d6f.webp",
+    "static/media/ToS.txt": "/ReactAppRB2/static/media/ToS.c749e0703e9fb0aba2db.txt",
+    "static/media/pexels-photo.jpg": "/ReactAppRB2/static/media/pexels-photo.bd868b8ac4cc57f70785.jpg",
     "index.html": "/ReactAppRB2/index.html",
-    "main.073c9b0a.css.map": "/ReactAppRB2/static/css/main.073c9b0a.css.map",
-    "main.f8160c21.js.map": "/ReactAppRB2/static/js/main.f8160c21.js.map",
+    "main.42ac9c45.css.map": "/ReactAppRB2/static/css/main.42ac9c45.css.map",
+    "main.2091dd6a.js.map": "/ReactAppRB2/static/js/main.2091dd6a.js.map",
     "787.28cb0dcd.chunk.js.map": "/ReactAppRB2/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.f8160c21.js"
+    "static/css/main.42ac9c45.css",
+    "static/js/main.2091dd6a.js"
   ]
 }
